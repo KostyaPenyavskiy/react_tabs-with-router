@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,GACE,YAAa,CACb,eAAgB,CAChB,QAAS,CACT,cACF,CAEA,GACE,iBACF,CAEA,QACE,qBACF","file":"main.c1286cca.chunk.css","sourcesContent":["ul {\n  display: flex;\n  list-style: none;\n  margin: 0;\n  padding: 0 15px;\n}\n\nli {\n  margin-right: 15px;\n}\n\n.active {\n  border: 1px solid grey;\n}\n"]}
